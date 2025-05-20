@@ -1,2 +1,2 @@
-# neighborhood-app
+# CommuniTea
 Simple community app
